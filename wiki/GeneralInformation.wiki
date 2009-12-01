@@ -1,0 +1,18 @@
+= Features =
+
+*Scale types:*
+  * Line
+  * Circular
+
+*Units:* (Applies to line scales only)
+  * mm
+  * cm
+  * inch
+  * pixel
+  * point
+
+*Vector based*
+
+= Requirements =
+
+*Inkscape*

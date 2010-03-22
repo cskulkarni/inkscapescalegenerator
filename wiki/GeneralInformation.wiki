@@ -16,3 +16,7 @@
 = Requirements =
 
 *Inkscape*
+
+= Screenshots =
+
+http://code.google.com/p/inkscapescalegenerator/source/browse/wiki/screenshots/windowsThumb.png

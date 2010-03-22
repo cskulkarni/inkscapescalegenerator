@@ -19,4 +19,12 @@
 
 = Screenshots =
 
-http://code.google.com/p/inkscapescalegenerator/source/browse/wiki/screenshots/windowsThumb.png
+click for svg:
+
+[http://inkscapescalegenerator.googlecode.com/svn/wiki/screenshots/exampleScale.svg http://inkscapescalegenerator.googlecode.com/svn/wiki/screenshots/exampleScaleThumb.png]
+
+click for full bitmap:
+
+[http://inkscapescalegenerator.googlecode.com/svn/wiki/screenshots/linux.png http://inkscapescalegenerator.googlecode.com/svn/wiki/screenshots/linuxThumb.png]
+
+[http://inkscapescalegenerator.googlecode.com/svn/wiki/screenshots/windows.png http://inkscapescalegenerator.googlecode.com/svn/wiki/screenshots/windowsThumb.png]
